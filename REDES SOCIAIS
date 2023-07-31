@@ -8,9 +8,9 @@
 <body>
     <h1>Minhas Redes Sociais</h1>
     <ul>
-        <li><a href="https://www.facebook.com/seu-usuario" target="_blank">Facebook</a></li>
-        <li><a href="https://www.instagram.com/seu-usuario" target="_blank">Instagram</a></li>
-        <li><a href="https://www.twitter.com/seu-usuario" target="_blank">Twitter</a></li>
+        <li><a href="https://www.facebook.com/profile.php?id=100095528673013" target="_blank">Facebook</a></li>
+        <li><a href="https://www.instagram.com/se7e.sa7/" target="_blank">Instagram</a></li>
+        <li><a href="https://www.twitter.com/SeteSA7" target="_blank">Twitter</a></li>
         <!-- Adicione outras redes sociais aqui -->
     </ul>
 </body>
